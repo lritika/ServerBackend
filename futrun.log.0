@@ -1,0 +1,31 @@
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"Server started as http://0.0.0.0:3000","time":"2017-03-31T10:28:51.635Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"Mongoose default connection open to  { URI: 'mongodb://localhost:27017/futran-dev',\n  port: 27017,\n  database: 'futran-dev' }","time":"2017-03-31T10:28:51.656Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /documentation --> 200","time":"2017-03-31T10:28:54.757Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs/swaggerui/css/screen.css --> 304","time":"2017-03-31T10:28:54.798Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs/swaggerui/lib/shred.bundle.js --> 304","time":"2017-03-31T10:28:54.801Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs/swaggerui/lib/jquery-1.8.0.min.js --> 304","time":"2017-03-31T10:28:54.804Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs/swaggerui/lib/jquery.ba-bbq.min.js --> 304","time":"2017-03-31T10:28:54.807Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs/swaggerui/lib/handlebars-1.0.0.js --> 304","time":"2017-03-31T10:28:54.809Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs/swaggerui/css/highlight.default.css --> 304","time":"2017-03-31T10:28:54.811Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs/swaggerui/lib/underscore-min.js --> 304","time":"2017-03-31T10:28:54.840Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs/swaggerui/lib/backbone-min.js --> 304","time":"2017-03-31T10:28:54.843Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs/swaggerui/lib/swagger.js --> 304","time":"2017-03-31T10:28:54.847Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs/custom.js --> 200","time":"2017-03-31T10:28:54.852Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs/swaggerui/lib/highlight.7.3.pack.js --> 304","time":"2017-03-31T10:28:54.854Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs/swaggerui/lib/jquery.slideto.min.js --> 304","time":"2017-03-31T10:28:54.856Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs/swaggerui/lib/jquery.wiggle.min.js --> 304","time":"2017-03-31T10:28:54.859Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs/swaggerui/swagger-ui.js --> 304","time":"2017-03-31T10:28:54.862Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs/swaggerui/images/logo_small.png --> 304","time":"2017-03-31T10:28:54.880Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs --> 200","time":"2017-03-31T10:28:54.936Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs?path=admin --> 200","time":"2017-03-31T10:28:55.036Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs?path=auth --> 200","time":"2017-03-31T10:28:55.037Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs?path=booking --> 200","time":"2017-03-31T10:28:55.038Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs?path=cards --> 200","time":"2017-03-31T10:28:55.041Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs?path=location --> 200","time":"2017-03-31T10:28:55.045Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs?path=otp --> 200","time":"2017-03-31T10:28:55.047Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs?path=provider --> 200","time":"2017-03-31T10:28:55.076Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs?path=users --> 200","time":"2017-03-31T10:28:55.081Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /favicon.ico --> 404","time":"2017-03-31T10:28:55.085Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":866,"level":30,"msg":"127.0.0.1: GET /docs/swaggerui/images/throbber.gif --> 401","time":"2017-03-31T10:28:55.343Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":883,"level":30,"msg":"Server started as http://0.0.0.0:3000","time":"2017-03-31T10:52:42.617Z","v":0}
+{"name":"futrun","hostname":"cl-macmini-149.local","pid":883,"level":30,"msg":"Mongoose default connection open to  { URI: 'mongodb://localhost:27017/futran-dev',\n  port: 27017,\n  database: 'futran-dev' }","time":"2017-03-31T10:52:42.635Z","v":0}
